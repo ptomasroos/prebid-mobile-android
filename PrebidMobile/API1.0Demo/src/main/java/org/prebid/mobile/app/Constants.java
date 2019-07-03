@@ -37,7 +37,7 @@ public class Constants {
     static final String MOPUB_BANNER_ADUNIT_ID_320x50_APPNEXUS = "9dbccb87ab4d4a178450c0bc986b4571";
     static final String MOPUB_INTERSTITIAL_ADUNIT_ID_APPNEXUS = "2829868d308643edbec0795977f17437";
     // DFP ad unit ids
-    static final String DFP_BANNER_ADUNIT_ID_300x250_APPNEXUS = "/19968336/PriceCheck_300x250";
+    static final String DFP_BANNER_ADUNIT_ID_300x250_APPNEXUS = "/19968336/PrebidMobileValidator_Banner_All_Sizes";
     static final String DFP_BANNER_ADUNIT_ID_ALL_SIZES_APPNEXUS = "/19968336/PrebidMobileValidator_Banner_All_Sizes";
     static final String DFP_INTERSTITIAL_ADUNIT_ID_APPNEXUS = "/19968336/PriceCheck_Interstitial";
 
